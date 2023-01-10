@@ -11,7 +11,7 @@ public class Application {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello from Spring Boot D2!";
+        return "Hello from Spring Boot D3!";
     }
 
     public static void main(String[] args) {
